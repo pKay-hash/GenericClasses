@@ -9,3 +9,7 @@ Created a Generic List in Java, which was used to create Generic Queue, which wa
   - GenericQueue.java - GenericQueue, a class that extends GenericList, was created to serve as a queue structure that worked with any data type.
   - MyHashMap.java - MyHashMap, a class that implements Iterable, uses GenericQueue to create a hashmap structure with any data type.
   - HMIterator.java - An iterator class that is used to iterate through hashmaps, specifically.
+
+- src/test/java:
+  - GQTest.java - Tests all functionalities and methods of GenericQueue.
+  - HMTest.java - Tests all functionalities and methods of MyHashMap

@@ -1,4 +1,4 @@
-# GenericClasses
+# Generic Classes
 Created a Generic List in Java, which was used to create Generic Queue, which was then used to create Generic Hash Map.
 
 ## Important Files:
